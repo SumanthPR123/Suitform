@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background-color: #1a1a1a;
+}
+
+/* Header Styles */
+header {
+    background-color: #0d1117;
+    padding: 40px 20px;
+    text-align: center;
+    color: #c9d1d9;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+    font-style: italic;
+    color: #8b949e;
+}
+
+/* Section Styles */
+main .description {
+    padding: 20px;
+    text-align: center;
+    background-color: #21262d;
+}
+
+main .description h2 {
+    font-size: 2em;
+    color: #f0f6fc;
+}
+
+main .description p {
+    font-size: 1.1em;
+    color: #c9d1d9;
+    margin: 10px 0;
+}
+
+.form-section {
+    padding: 20px;
+    background-color: #161b22;
+    text-align: center;
+}
+
+.form-section h2 {
+    font-size: 2em;
+    color: #f0f6fc;
+    margin-bottom: 20px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #0d1117;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 0.9em;
+    color: #8b949e;
+}
