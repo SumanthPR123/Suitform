@@ -23,7 +23,7 @@ html, body {
 header {
     padding: 40px 20px;
     text-align: center;
-    color: #c9d1d9;
+    color: #000000;
 }
 
 header h1 {
@@ -34,7 +34,7 @@ header h1 {
 header p {
     font-size: 1.2em;
     font-style: italic;
-    color: #8b949e;
+    color: #000000;
 }
 
 /* Section Styles */
